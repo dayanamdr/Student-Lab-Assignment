@@ -1,0 +1,4 @@
+1, Dayana, 3
+4, Ioana, 3
+5, Maria, 6
+3, Anna, 5
